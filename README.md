@@ -2,9 +2,7 @@
 Building a lottery game on-chain using Chainlink's VRF
 
 
-# Successfully submitted source code for contract
-
-Successfully verified contract "RandomWinnerGame.sol" on Etherscan.
+# Verified Contract on Etherscan (Polygonscan)
 
 https://mumbai.polygonscan.com/address/0x55c3EDcC3cf2584330e4AdaF9883B998d42E1ce2#code
 
